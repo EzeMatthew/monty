@@ -1,2 +1,0 @@
-n.c:33:15: error: implicit declaration of function ‘getline’ [-Werror=implicit-function-declaration]
-   33 |   read_line = getline(&content, &size, file);
